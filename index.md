@@ -1,14 +1,13 @@
 ---
 layout: default
 ---
+# Hi, I am Tong Qi
 
-I am a PhD candidate in the Department of Mathematics at the University of Maryland. I am honored to be advised by [Professor Vince Lyzinski](https://www.math.umd.edu/~vlyzinsk/). 
+I am a PhD candidate in the [Department of Mathematics](https://stat.umd.edu/) at the University of Maryland. I am honored to be advised by [Professor Vince Lyzinski](https://www.math.umd.edu/~vlyzinsk/). 
 
-My research interests are in the areas of graph theory and network analysis. My current work focuses on algorithms of spectral graph embedding and performance.
+My research interests are in the areas of graph theory and statistical network analysis. My current work focuses on statistical inference on spectral graph embedding algorithms and their performance comparison.
 
-# About
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
 # Projects
 ## MASE
@@ -35,6 +34,13 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
   
   
  
+## Education
+- :mortar_board: B.S. in Agricultural Economics, 2013
+   Purdue University
+- :mortar_board: M.S. in Management, 2015   
+   Purdue University
+- :mortar_board: M.S. in Joint Statistics and Computer Science, 2019
+   Purdue University
 
 
 
