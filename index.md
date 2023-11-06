@@ -20,7 +20,7 @@ My research interests are in the areas of graph theory, statistical network anal
 
 
 #### 2. The Limitation of Graph Spectral Embedding on Clique Detection
-![singular](https://github.com/tong-qii/tong-qii.github.io/blob/master/assets/img/A0A1_02n.png)
+![singular](assets/img/A0A1_02n.png)
 
 
 
