@@ -2,11 +2,31 @@
 layout: default
 ---
 
+I am a PhD candidate in the Department of Mathematics at the University of Maryland. I am advised by [Professor Vince Lyzinski](https://www.math.umd.edu/~vlyzinsk/). 
+
+My research interests are in the areas of graph theory and network analysis. My current work focuses on algorithms of spectral graph embedding and performance.
+
+# Teaching
+## Course Instructor 
+- Introduction to Math Modeling and Probability (MATH107)  
+   Summer 2021; Fall 2020
+- Introduction to Statistical Computing with SAS (STAT430)  
+  Fall 2023; Summer 2023; Spring 2023 
+  
+## Discussion Sessions
+-   
+  
+  
+  
+ 
+
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
+
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
