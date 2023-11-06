@@ -20,64 +20,43 @@ My research interests are in the areas of graph theory and statistical network a
 # Teaching
 ## Course Instructor 
 - Introduction to Math Modeling and Probability (MATH107)  
-   Summer 2021; Fall 2020
+   &emsp; _Summer 2021; Fall 2020_
 - Introduction to Statistical Computing with SAS (STAT430)  
-  Fall 2023; Summer 2023; Spring 2023 
+  &emsp; _Fall 2023; Summer 2023; Spring 2023_ 
   
 ## Discussion Sessions
 - Elementary Calculus I (MATH120)    
-  Spring 2022
+  &emsp; _Spring 2022_
 - Introduction to Probability Theory (STAT410)     
-  Fall 2021
+  &emsp; _Fall 2021_
   
   
   
   
  
-## Education
-- :mortar_board: B.S. in Agricultural Economics, 2013
-   Purdue University
-- :mortar_board: M.S. in Management, 2015   
-   Purdue University
-- :mortar_board: M.S. in Joint Statistics and Computer Science, 2019
-   Purdue University
+# Education
+🎓 Ph.D. in Mathematical Statistics, 2024  
+      &emsp; _University of Maryland_   
+🎓 M.S. in Joint Statistics and Computer Science, 2019  
+   	 &emsp; _Purdue University_  
+🎓 M.S. in Management, 2015   
+   	 &emsp; _Purdue University_    
+🎓 B.S. in Agricultural Economics, 2013  
+   	 &emsp; _Purdue University_  
+ 
 
 
 
+<!--
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
-
-
-
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-
-
-
 
 ## Header 2
 
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
 
 
 ###### Header 6
@@ -88,11 +67,6 @@ end
 | out of stock | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
-
-
-
-
-
 
 ### Small image
 
@@ -114,12 +88,4 @@ end
 <dd>Japan</dd>
 <dt>Color</dt>
 <dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+</dl>-->
