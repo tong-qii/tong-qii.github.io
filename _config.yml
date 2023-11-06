@@ -1,6 +1,6 @@
 title: Tong Qi's Homepage
 logo: /assets/img/1699240990337.jpg
-description: "PhD candidate <br> Department of Mathematics <br> University of Maryland"
+description: "3303 William E. Kirwan Hall <br> Department of Mathematics <br> 4176 Campus Dr. <br> University of Maryland <br> College Park, MD 20742 <br> email: tqi@umd.edu"
 show_downloads: False
 google_analytics:
 theme: jekyll-theme-minimal
@@ -12,3 +12,4 @@ plugins:
 github:
   owner_url: https://github.com/tong-qii
 
+# "3303 William E. Kirwan Hall <br> Department of Mathematics <br> 4176 Campus Dr. <br> University of Maryland <br> College Park, MD 20742 <br> email: tqi@umd.edu"
