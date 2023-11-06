@@ -11,7 +11,11 @@ My research interests are in the areas of graph theory, statistical network anal
 
 # Projects
 #### 1. Community Detection and Anomaly Detection of Multiple Graph Embedding Methods
-![Zebrafish](https://github.com/tong-qii/tong-qii.github.io/blob/master/assets/img/zebrafish2.png)
+
+
+![Zebrafish](assets/img/zebrafish2.png)
+
+<!--https://github.com/tong-qii/tong-qii.github.io/blob/master/assets/img/zebrafish2.png-->
 
 
 
