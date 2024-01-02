@@ -19,7 +19,8 @@ My research interests are in the areas of graph theory, statistical network anal
 
 
 
-#### 2. The Limitation of Graph Spectral Embedding on Clique Detection
+#### 2. Detection of Model-based Planted Pseudo-cliques in Random Dot Product Graphs by the Adjacency Spectral Embedding and the Graph Encoder Embedding
+[arXiv:2312.11054](https://arxiv.org/abs/2312.11054)
 ![singular](assets/img/A0A1_02n.png)
 
 
